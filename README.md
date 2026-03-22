@@ -1,4 +1,4 @@
-# 🛡️ SpamShield
+# <i> <mark> 🛡️ SpamShield </i> </mark>
 
 ### Intelligent SMS Spam Detection using Machine Learning
 
